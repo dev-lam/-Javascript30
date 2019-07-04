@@ -21,7 +21,7 @@ Using data attribute "data-____" to create an object. Select the entire document
 objects of names used (variables) document.documentElement.style.setProperty('--${this.name}', this.value + suffix);
 
 CSS:
-`<style>
+```<style>
 :root {
 --base: #ffc600; //yellow
 --spacing: 10px;
@@ -35,6 +35,6 @@ function handleUpdate() {
 const suffix = this.dataset.sizing || '';  //sizing variable being changed or nothing.
 }
 	inputs.forEach(input => input.addEventListener ('change', handleUpdate));
-	inputs.forEach(input => input.addEventListener ('mousemove', handleUpdate));`
+	inputs.forEach(input => input.addEventListener ('mousemove', handleUpdate));```
 
 
