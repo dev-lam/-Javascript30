@@ -35,6 +35,15 @@ function handleUpdate() {
 const suffix = this.dataset.sizing || '';  //sizing variable being changed or nothing.
 }
 	inputs.forEach(input => input.addEventListener ('change', handleUpdate));
-	inputs.forEach(input => input.addEventListener ('mousemove', handleUpdate));```
+	inputs.forEach(input => input.addEventListener ('mousemove', handleUpdate));
+	
+Day 4: Javascript Array Cardio Practice
+
+Fundamental of JS with array methods:
+
+```Array.protortpe.filter //filter return results after bringing things in and base on criteria displays (can be more or less)
+Array.prototype.map //retuns a new array of the same length and also the same amount of items given
+Array.prototype.sort // sort between two items (a,b)
+Array.prototype.reduce // allow to build and return from previous entry
 
 
