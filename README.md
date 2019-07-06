@@ -49,5 +49,20 @@ Array.prototype.map //retuns a new array of the same length and also the same am
 Array.prototype.sort // sort between two items (a,b)
 Array.prototype.reduce // allow to build and return from previous entry
 ```
+Day 5: Flexbox + JavaScript Image Gallery
+
+Flexbox is a CSS layout model method. Default items will be from left to right.
+Flexbox nested to create layout page.
+
+```
+CSS:
+.panel {
+display: flex; // goes side-by-side
+flex: 1; // length of space, each will evenly distribute by 1
+flex-direction: column; // vert center middle
+flex: 5; // 5x the amount of room compared to the reg size
+}
+```
+
 
 
