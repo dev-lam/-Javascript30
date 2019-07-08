@@ -63,7 +63,8 @@ flex-direction: column; // vert center middle
 flex: 5; // 5x the amount of room compared to the reg size
 }
 ```
-Day 6: Ajax Type Ahead with fetch() 
+Day 6: Ajax Type Ahead with fetch()
+Day 7: .some(), .every(), .find() and [...SPREADS] — Array Cardio Day 2 
 
 
 
