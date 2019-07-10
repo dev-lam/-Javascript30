@@ -66,5 +66,10 @@ flex: 5; // 5x the amount of room compared to the reg size
 Day 6: Ajax Type Ahead with fetch()
 Day 7: .some(), .every(), .find() and [...SPREADS] — Array Cardio Day 2 
 
+Day 8: Let's build something fun with HTML5 Canvas
+Exercise learning about canvas, learning about events, flag with true or false to test.
+Using event info to draw and remain idle when user has not clicked and trigger event.
+ 
+
 
 
