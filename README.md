@@ -64,11 +64,36 @@ flex: 5; // 5x the amount of room compared to the reg size
 }
 ```
 Day 6: Ajax Type Ahead with fetch()
+
+
 Day 7: .some(), .every(), .find() and [...SPREADS] — Array Cardio Day 2 
 
 Day 8: Let's build something fun with HTML5 Canvas
 Exercise learning about canvas, learning about events, flag with true or false to test.
 Using event info to draw and remain idle when user has not clicked and trigger event.
+
+Day 9: Must Know Chrome Dev Tools Tricks
+
+Using chrome browser and inspect tool: Break on...> attribute modification
+Will enable debugger mode and pause and show line of code causing.
+```
+console.log(``)
+console.log(1%c I am some great text`, `font-size:50px;`) allows styling
+console.warn(`oh no`); warning shown in console
+console.error(`stop`); error shown in console
+console.info(`facts: I am happy`);
+console.assert(1 === 1, `that is wrong!`); will only fire if wrong, test if false will throw error in console if correct nothing happens.
+console.clear(); clear console
+console.log(p); viewing DOM elements
+console.dir(p); shows the directory on the element
+console.Collapsed`${}`);
+console.groupEnd`${}`);
+console.count(``); will count how many counted
+console.time(``) will enable logging of time is taking 
+console.timeEnd(``);
+console.log(data); 
+console.table(); take a array of objects and display it into a table
+```
  
 
 
