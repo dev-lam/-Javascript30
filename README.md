@@ -94,6 +94,9 @@ console.timeEnd(``);
 console.log(data); 
 console.table(); take a array of objects and display it into a table
 ```
+
+Day 10:
+Day 11:
  
 
 
