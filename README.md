@@ -95,8 +95,9 @@ console.log(data);
 console.table(); take a array of objects and display it into a table
 ```
 
-Day 10:
-Day 11:
+Day 10: JS Checkbox Challenge!
+Day 11: Custom HTML5 Video Player
+Day 12: JavaScript KONAMI CODE! 
  
 
 
